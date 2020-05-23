@@ -1,5 +1,5 @@
 # Longest-Common-Sequence
-Find out all longest common sequences(LCS) in C language
+Find out all longest common subsequences(LCS) in C language
 
 用 C 语言查找所有的最长公共子序列（LCS）
 
